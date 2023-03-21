@@ -1,6 +1,8 @@
+![Web developer and Data scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, my name is Md. Sazzadul Islam
 #### Web developer and Data scientist
-![Web developer and Data scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: VUE JS  / JS / HTML / CSS/ PHP/LARAVEL/PYTHON/SQL/MACHING LEARNING/DEEP LEARNING
